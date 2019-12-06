@@ -4,3 +4,6 @@ Crie o caminho abaixo no "C:" do seu computador ou altere o caminho utilizado no
 
 Exemplo de conexão que o power query poderá mostrar:
   = Excel.Workbook(File.Contents("C:\BI\Mean Years in School\database\mean_years_in_school_men_35_to_44_years.xlsx"), null, true)
+  
+Outra forma de conexão:
+  = Folder.Files("C:\BI")
