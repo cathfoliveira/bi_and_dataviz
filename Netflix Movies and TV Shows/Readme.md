@@ -7,6 +7,7 @@
 - Accumulated Chart
 - YoY and MoM Calculus
 - Dynamic Storytelling
+- Web Scraping
 - Top N Filter
 - Map Tooltip Chart
 - Bookmarks
