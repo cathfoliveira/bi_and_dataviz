@@ -7,3 +7,5 @@ Power BI Dashboard Published on Microsoft Portal:
 
 The objective is to provide pbix examples so people can use public datasets and learn how to use different features of this power tool.
 
+<img src="https://github.com/cathfoliveira/Portfolio/blob/master/Mean%20Years%20in%20School/Img%20Dash.png" alt="Img Dash">
+
