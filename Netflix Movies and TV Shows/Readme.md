@@ -11,3 +11,5 @@
 - Map Tooltip Chart
 - Bookmarks
 - Buttons
+
+<img src="https://github.com/cathfoliveira/Portfolio/blob/master/Netflix%20Movies%20and%20TV%20Shows/Img%20Dash.png" alt="Img Dash">
