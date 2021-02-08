@@ -9,6 +9,5 @@
 - Dynamic Storytelling
 - Top N Filter
 - Map Tooltip Chart
-- Map Tooltip Chart
 - Bookmarks
 - Buttons
